@@ -22,11 +22,6 @@
   <a href="#--credits--">Credit</a>
 </p>
 
-<h1 align="center">🔗 Resource Links 🔗</h1>
-
-- 🤖 Demo Bot: [Invite Here](.)
-- 🤝 Support Server: [Join Here](https://discord.gg/ScwTGvU3Ns)
-
 <h1 align="center">📦 Prerequisites 📦</h1>
 
 - [Node.js](https://nodejs.org/en/) v14 or higher

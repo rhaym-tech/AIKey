@@ -1,6 +1,6 @@
 {
   "name": "aikey",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS library to generate OpenAI access token for ChatGPT",
   "main": "index.js",
   "scripts": {
