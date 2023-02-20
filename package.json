@@ -1,0 +1,31 @@
+{
+  "name": "aikey",
+  "version": "1.0.0",
+  "description": "NodeJS library to generate OpenAI access token for ChatGPT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhaym-tech/AIKey.git"
+  },
+  "keywords": [
+    "AI",
+    "ChatGPT",
+    "Token",
+    "OpenAI",
+    "Access",
+    "token",
+    "Authentication"
+  ],
+  "author": "Rhaym (Ghellab Abderrahmane)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhaym-tech/AIKey/issues"
+  },
+  "homepage": "https://github.com/rhaym-tech/AIKey#readme",
+  "dependencies": {
+    "fetch-cookie": "^2.1.0"
+  }
+}
