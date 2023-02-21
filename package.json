@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "NodeJS library to generate OpenAI access token for ChatGPT",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
