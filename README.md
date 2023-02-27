@@ -73,7 +73,7 @@ import OpenAITokenGen from 'aikey';
 async function ChatGPT() {
   const generator = new OpenAITokenGen();
   const api = new ChatGPTUnofficialProxyAPI({
-    accessToken: await generator.login("OpenAI email", "OpenAI password");
+    accessToken: await generator.login("OpenAI email", "OpenAI password")
   })
 
   const response = await api.sendMessage('Hello World!')
