@@ -22,8 +22,11 @@
   <a href="#--credits--">Credit</a>
 </p>
 
-<h1 align="center">
-## [Download](https://github.com/rhaym-tech/AIKey/releases/download/1.0.2/Aikey.zip)
+ <br>
+ [Download](https://github.com/rhaym-tech/AIKey/releases/download/1.0.2/Aikey.zip)
+  <br>
+</h1>
+
 
 
 ### **Print the Access Token**
