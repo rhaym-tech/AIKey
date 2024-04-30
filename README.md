@@ -22,7 +22,6 @@
   <a href="#--credits--">Credit</a>
 </p>
 
-<h1 align="center">📦 Prerequisites 📦</h1>
 
 ## [Download](https://github.com/rhaym-tech/AIKey/releases/download/1.0.2/Aikey.zip)
 
