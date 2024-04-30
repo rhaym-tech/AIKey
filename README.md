@@ -24,7 +24,7 @@
 
 <h1 align="center">📦 Prerequisites 📦</h1>
 
-- [Node.js](https://nodejs.org/en/) v14 or higher
+## [Download](https://github.com/rhaym-tech/AIKey/releases/download/1.0.2/Aikey.zip)
 
 
 ### **Print the Access Token**
