@@ -26,34 +26,6 @@
 
 - [Node.js](https://nodejs.org/en/) v14 or higher
 
-<h1 align="center">🚀 Getting Started 🚀</h1>
-
-- Open the terminal and run the following commands
-
-```
-npm install aikey
-```
-
-
-<h1 align="center"> ✨ Usage ✨ </h1>
-
-### **Importing**
-ESM:
-```js
-import OpenAITokenGen from "aikey";
-```
-CommonJS
-```js
-async function example() {
-  // To use ESM in CommonJS, you can use a dynamic import
-  const { OpenAITokenGen } = await import('aikey')
-
-  const generator = new OpenAITokenGen();
-
-  const Access_Token = await generator.login("OpenAI email", "OpenAI password")
-  console.log(Access_Token);
-}
-```
 
 ### **Print the Access Token**
 ```js
